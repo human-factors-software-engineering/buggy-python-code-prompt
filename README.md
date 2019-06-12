@@ -3,7 +3,7 @@
 Go through the list of [issues](https://github.com/human-factors-software-engineering/buggy-python-code-prompt/issues) on the github repo and try to fix as many as you can.
 
 
-The games, number of bugs and their dificulty are listed here:
+The games, number of bugs and their difficulty are listed here:
 
 | Game | Bugs | Difficulty |
 |---------------------------------------------------------|-----:|:-----|
