@@ -5,7 +5,7 @@ Go through the list of [issues](https://github.com/human-factors-software-engine
 
 The games, number of bugs and their difficulty are listed here:
 
-| Game | Bugs | Difficulty |
+| Game | Bugs |
 |---------------------------------------------------------|-----:|
 | [Galactic War](/galactic-war/README.md) | 3 |
 | [Keyboard Interaction](/keyboard-interaction/README.md) | 1 |
