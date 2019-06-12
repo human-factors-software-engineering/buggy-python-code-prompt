@@ -7,7 +7,7 @@ The games, number of bugs and their difficulty are listed here:
 
 | Game | Bugs |
 |---------------------------------------------------------|-----:|
-| [Galactic War](/galactic-war/README.md) | 3 |
+| [Asteroids Infinity](/asteroids-infinity/README.md) | 1 |
 | [Keyboard Interaction](/keyboard-interaction/README.md) | 1 |
 | [Tetris](/python-tetris/README.md) | 3 |
 | [Tic Tac Toe](/tictactoe/README.md) | 3 |
