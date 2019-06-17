@@ -17,3 +17,11 @@ The games, number of bugs and their difficulty are listed here:
 | [Hangman](/hangman/README.md) | 1 |
 | [Snake Game](/snake/README.md) | 2 |
 | [Flappy Bird](/flappy-bird/README.md) | 1 |
+
+## Installation / Setup
+
+1. Install Python 3 and add to PATH (Path option is in the first window)
+2. Rename installed `python.exe` to `python3.exe`
+3. Install pygame library with  `python3 -m pip install pygame`
+4. Navigate to the folder of the game you want to run
+5. Follow individual game README

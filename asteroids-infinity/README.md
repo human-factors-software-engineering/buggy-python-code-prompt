@@ -1,6 +1,6 @@
 ## *Asteroids Infinity*
 ### **Running the game**
-To run: `python asteroids-infinity.py`
+To run: `python3 asteroids-infinity.py`
 
 ### **How To Play**
 The objective of the game is to shoot and destroy the asteroids and saucers, while not colliding with either, or being hit by the saucers' counter-fire. The game becomes harder as the number of asteroids increases.

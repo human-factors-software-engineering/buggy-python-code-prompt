@@ -1,6 +1,6 @@
 ## *Tic-tac-toe*
 ### **Running the game**
-To run: `python tictactoe.py`
+To run: `python3 tictactoe.py`
 
 ### **How To Play**
 Players who place X's and O's take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.

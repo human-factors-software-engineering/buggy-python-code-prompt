@@ -1,6 +1,6 @@
 ## *Keyboard Interaction*
 ### **Running the game**
-To run: `python eventlist.py`
+To run: `python3 eventlist.py`
 
 ### **How To Play**
 Keyboard Interaction is a demo of how to register input into pygame. 

@@ -1,6 +1,6 @@
 ## *Tetris*
 ### **Running the game**
-To run: `python tetris.py`
+To run: `python3 tetris.py`
 
 ### **How To Play**
 A random sequence of geometric shapes composed of four square blocks fall down the playing field. The objective of the game is to manipulate these shapes, by moving each one sideways and/or rotating by quarter-turns, so that they form a solid horizontal line without gaps. When such a line is formed, it disappears and any blocks above it fall down to fill the space.

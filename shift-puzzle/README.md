@@ -1,6 +1,6 @@
 ## *Shift Puzzle*
 ### **Running the game**
-To run: `python shift-puzzle.pyw`
+To run: `python3 shift-puzzle.pyw`
 
 ### **How To Play**
 The initial display shows the solved puzzle. The pieces are then shuffled. The objective is to reshuffle the pieces back into the original shape. 

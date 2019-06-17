@@ -1,6 +1,6 @@
 ## *Snake*
 ### **Running the game**
-To run: `python snake.py`
+To run: `python3 snake.py`
 
 ### **How To Play**
 The player controls the moving dot. As it moves forward, it leaves a trail behind, resembling a moving snake. There is a tail that follows the head and grows longer as the head passes over the red apple. The player loses when the snake runs into itself.
