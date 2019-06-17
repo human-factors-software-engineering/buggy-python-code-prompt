@@ -16,4 +16,4 @@ The games, number of bugs and their difficulty are listed here:
 | [Conway's Game of Life](/game-of-life/README.md) | 1 |
 | [Hangman](/hangman/README.md) | 1 |
 | [Snake Game](/snake/README.md) | 2 |
-| [Flappy Bird](/snake/README.md) | 1 |
+| [Flappy Bird](/flappy-bird/README.md) | 1 |

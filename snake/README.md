@@ -1,4 +1,4 @@
-## **
+## *Snake*
 ### **Running the game**
 To run: `python snake.py`
 
